@@ -1,0 +1,14 @@
+G:\COIS1020\Lab\lab10\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+G:\COIS1020\Lab\lab10\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+G:\COIS1020\Lab\lab10\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+G:\COIS1020\Lab\lab10\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+G:\COIS1020\Lab\lab10\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+G:\COIS1020\Lab\lab10\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\COIS1020\Lab\lab10\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+G:\COIS1020\Lab\lab10\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+G:\COIS1020\Lab\lab10\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\COIS1020\Lab\lab10\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+G:\COIS1020\Lab\lab10\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+G:\COIS1020\Lab\lab10\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+G:\COIS1020\Lab\lab10\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+G:\COIS1020\Lab\lab10\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
